@@ -1,0 +1,13 @@
+C:\Users\brian\source\repos\AwesomeApp\AwesomeApp\AwesomeApp\bin\Debug\netstandard2.0\AwesomeApp.deps.json
+C:\Users\brian\source\repos\AwesomeApp\AwesomeApp\AwesomeApp\bin\Debug\netstandard2.0\AwesomeApp.dll
+C:\Users\brian\source\repos\AwesomeApp\AwesomeApp\AwesomeApp\bin\Debug\netstandard2.0\ref\AwesomeApp.dll
+C:\Users\brian\source\repos\AwesomeApp\AwesomeApp\AwesomeApp\bin\Debug\netstandard2.0\AwesomeApp.pdb
+C:\Users\brian\source\repos\AwesomeApp\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\AwesomeApp.csprojAssemblyReference.cache
+C:\Users\brian\source\repos\AwesomeApp\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\brian\source\repos\AwesomeApp\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\brian\source\repos\AwesomeApp\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\AwesomeApp.AssemblyInfoInputs.cache
+C:\Users\brian\source\repos\AwesomeApp\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\AwesomeApp.AssemblyInfo.cs
+C:\Users\brian\source\repos\AwesomeApp\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\brian\source\repos\AwesomeApp\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\AwesomeApp.dll
+C:\Users\brian\source\repos\AwesomeApp\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\ref\AwesomeApp.dll
+C:\Users\brian\source\repos\AwesomeApp\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\AwesomeApp.pdb
